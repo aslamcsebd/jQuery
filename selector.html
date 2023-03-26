@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Js tutorial</title>
+    <link href="assets/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/style.css" rel="stylesheet">
+  </head>
+  <body class="container">
+    <h3 class="text-center">Jquery selector</h3>
+    <section>
+        <p>This normal selector</p>
+        <h4>Selector bold</h4>
+        <p id="newId">Id selector</p>
+        <p class="newClass">Class selector</p>
+        <div class="parent">
+            <p class="child">
+                <h4>This is nested selector</h4>
+            </p>
+        </div>
+    </section>
+    <a class="source" href="https://www.youtube.com/watch?v=evjCnQw48yM&list=PLTmFffuXWQFkNYiGXr3Un6pqJZRi-eAtl&index=3&ab_channel=learnwithfiz" target="_blank">Source</a> 
+    
+    <script src="assets/jquery.min.js"></script>
+      <script>
+        $("p").text("This normal selector2");
+        $("h4").html("<b>Selector bold2</b>");
+        $("#newId").html("<b>Id selector2</b>");
+        $(".newClass").html("<b>Class selector2</b>");
+        $(".parent .child h4").html("<b>This is nested selector2</b>");
+      </script>     
+  </body>
+</html>
