@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Js tutorial</title>
+    <link href="assets/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/style.css" rel="stylesheet">
+  </head>
+  <body class="container">
+    <h3 class="text-center">Add css</h3>
+    <section>
+        <h2>Single CSS, Multiple line</h2>
+        <h3>Multiple CSS, single line</h3>
+        <p>External CSS add Multiple line</p>
+        <span>External CSS add single line</span>
+    </section>
+    <a class="source" href="https://www.youtube.com/watch?v=YR6u1Mnw3RU&list=PLTmFffuXWQFkNYiGXr3Un6pqJZRi-eAtl&index=6&ab_channel=learnwithfiz" target="_blank">Source</a> 
+    
+    <script src="assets/jquery.min.js"></script>
+    <script>
+        $("h2").css("color", "gray");
+        $("h2").css("font-style", "italic");
+        
+        $("h3").css({
+            "color":"blue", 
+            "font-style":"italic"
+        });
+        $("p").addClass("addCSS");
+        $("p").addClass("addCSS2");
+
+        $("span").addClass("addCSS addCSS2");
+    </script>     
+  </body>
+</html>

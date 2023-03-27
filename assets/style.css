@@ -16,3 +16,12 @@
     background-color: cornflowerblue;
     color: #fff;
 }
+
+.addCSS{
+    color: magenta;
+    font-style: italic;
+    font-size: large;
+}
+.addCSS2{
+    text-transform: capitalize;
+}
