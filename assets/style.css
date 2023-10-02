@@ -1,27 +1,58 @@
-.source{
-    position: fixed;
-    right: unset;
-    bottom: 0;
-    left: 0;
-    z-index: 1030;
-    margin: 10px;
-    text-decoration: none;
-    padding: 2px 10px;
-    color: #fff;
-    background-color: #6c757d;
-    border-radius: 0.25rem;
+
+fieldset {
+	border: 1px dashed #000 !important;
+	border-radius: 0.50rem;
+	padding: 0 1em 1em 1em !important;
+	margin: 0 0 1.5em 0 !important;
+	-webkit-box-shadow:  0px 0px 0px 0px #000;
+	/*box-shadow:  0px 0px 2px 0px #000;*/
+}
+ 
+legend{ 
+	float: none;
+	width:inherit;
+	font-size: 1em !important;
+	font-weight: bold !important;
+	text-align: center;
+	border: 1px solid pink;
+	background-color: whitesmoke;
+	border-radius: 12px;   
+	padding: 0px 10px; 
 }
 
-.source:hover{    
-    background-color: cornflowerblue;
-    color: #fff;
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+	background-color: unset;
+	border: 1px solid blue;
 }
 
+.link { 
+	position: relative;
+	transition: color 200ms;
+}
+
+.link::before {
+	content: '';
+	display: inline-block;
+	position: absolute;
+	inset: 0;
+	background: #6c757d;
+	transform: scaleX(0);
+	transform-origin: left;
+	z-index: -1;
+	transition: transform 200ms;
+	border-radius: 0 0.375rem 0.375rem 0;
+}
+.link:hover { color: #ffffff; }
+.link:hover::before { transform: scaleX(1); }
+
+.link { text-decoration:none; }
+ 
 .addCSS{
     color: magenta;
     font-style: italic;
     font-size: large;
 }
+
 .addCSS2{
     text-transform: capitalize;
 }

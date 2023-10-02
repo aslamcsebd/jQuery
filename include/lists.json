@@ -1,0 +1,19 @@
+
+[    
+	{
+		"name" : "selector",
+		"url" : "pages/selector.php"
+	},
+	{
+		"name" : "append",
+		"url" : "pages/append.php"
+	},
+	{
+        "name" : "addCSS",
+		"url" : "pages/addCSS.php"
+	},
+	{
+        "name" : "event",
+		"url" : "pages/event.php"
+	}
+]
