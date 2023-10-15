@@ -38,7 +38,7 @@
 								<div class="col-3">
 									<div class="input-group p-2">
 										<span class="input-group-text"> <?= ++$key ?> </span>
-										<a class="form-control btn link border" href="<?= $list->url; ?>" target="_blank"><?= $list->name; ?></a>
+										<a class="form-control btn link border" href="<?= $list->url; ?>"><?= $list->name; ?></a>
 									</div>
 								</div>
 							<?php } ?>
@@ -49,7 +49,7 @@
 							<?php
 								foreach ($lists as $key => $list) { ?>
 									<li class="list-group-item p-1 d-grid gap-2 col-6 mx-auto">
-										<a class="btn btn-outline-secondary fw-bold" href="<?= $list->url; ?>" target="_blank">
+										<a class="btn btn-outline-secondary fw-bold" href="<?= $list->url; ?>">
 											<?= ++$key ?>) <?= $list->name; ?>
 										</a>
 									</li>

@@ -35,6 +35,7 @@
 		<?php
 			$url = "https://www.youtube.com/watch?v=XjRQ5HRffN8&list=PLTmFffuXWQFkNYiGXr3Un6pqJZRi-eAtl&index=5&ab_channel=learnwithfiz";
 		?>
+		<a class="btn btn-outline-success" href="../index.php" arget="_blank">Back</a>
 		<a class="btn btn-outline-primary" href="<?=$url?>" target="_blank">Source</a>
 	</body>
 </html>

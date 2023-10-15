@@ -30,6 +30,9 @@
 		<?php
 			$url = "https://www.youtube.com/watch?v=fYHwZSBeRr4&list=PLTmFffuXWQFkNYiGXr3Un6pqJZRi-eAtl&index=4&ab_channel=learnwithfiz";			
 		?>
-		<a class="btn btn-outline-primary" href="<?=$url?>" target="_blank">Source</a>
+		<div class="text-center">
+			<a class="btn btn-outline-success" href="../index.php" arget="_blank">Back</a>
+			<a class="ml-2 btn btn-outline-primary" href="<?=$url?>" target="_blank">Source</a>
+		</div>
 	</body>
 </html>

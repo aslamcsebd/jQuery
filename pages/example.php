@@ -18,6 +18,7 @@
 		<?php
 			$url = "";
 		?>
+		<a class="btn btn-outline-success" href="../index.php" arget="_blank">Back</a>
 		<a class="btn btn-outline-primary" href="<?=$url?>" target="_blank">Source</a>
 	</body>
 </html>

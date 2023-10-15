@@ -75,6 +75,7 @@
 		<?php
 			$url = "https://www.youtube.com/watch?v=rFMzT7Iccqw&list=PLTmFffuXWQFkNYiGXr3Un6pqJZRi-eAtl&index=6";
 		?>
+		<a class="btn btn-outline-success" href="../index.php" arget="_blank">Back</a>
 		<a class="btn btn-outline-primary" href="<?=$url?>" target="_blank">Source</a>
 	</body>
 </html>

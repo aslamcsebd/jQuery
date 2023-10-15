@@ -15,5 +15,9 @@
 	{
         "name" : "event",
 		"url" : "pages/event.php"
+	},
+	{
+        "name" : "hide-show",
+		"url" : "pages/hide-show.php"
 	}
 ]
