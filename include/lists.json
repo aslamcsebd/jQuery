@@ -19,5 +19,9 @@
 	{
         "name" : "hide-show",
 		"url" : "pages/hide-show.php"
+	},
+	{
+        "name" : "call-back-function",
+		"url" : "pages/call-back-function.php"
 	}
 ]
