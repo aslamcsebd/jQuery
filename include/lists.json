@@ -27,5 +27,10 @@
 	{
         "name" : "dimensions",
 		"url" : "pages/dimensions.php"
+	},
+	{
+        "name" : "chaining",
+		"url" : "pages/chaining.php"
 	}
 ]
+ 
