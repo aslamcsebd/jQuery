@@ -35,5 +35,9 @@
 	{
         "name" : "stop-method",
 		"url" : "pages/stop-method.php"
+	},
+	{
+        "name" : "fade",
+		"url" : "pages/fade.php"
 	}
 ]
