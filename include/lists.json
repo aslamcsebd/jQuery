@@ -31,6 +31,9 @@
 	{
         "name" : "chaining",
 		"url" : "pages/chaining.php"
+	},
+	{
+        "name" : "stop-method",
+		"url" : "pages/stop-method.php"
 	}
 ]
- 
