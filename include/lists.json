@@ -23,5 +23,9 @@
 	{
         "name" : "call-back-function",
 		"url" : "pages/call-back-function.php"
+	},
+	{
+        "name" : "dimensions",
+		"url" : "pages/dimensions.php"
 	}
 ]

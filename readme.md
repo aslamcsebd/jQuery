@@ -6,3 +6,4 @@
 - [event](https://github.com/aslamcsebd/jQuery/blob/main/pages/event.php)
 - [hide-show](https://github.com/aslamcsebd/jQuery/blob/main/pages/hide-show.php)
 - [call-back-function](https://github.com/aslamcsebd/jQuery/blob/main/pages/call-back-function.php)
+- [dimensions](https://github.com/aslamcsebd/jQuery/blob/main/pages/dimensions.php)
