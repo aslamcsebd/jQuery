@@ -12,3 +12,4 @@
 - [fade](https://github.com/aslamcsebd/jQuery/blob/main/pages/fade.php)
 - [animation](https://github.com/aslamcsebd/jQuery/blob/main/pages/animation.php)
 - [attribute](https://github.com/aslamcsebd/jQuery/blob/main/pages/attribute.php)
+- [get-value](https://github.com/aslamcsebd/jQuery/blob/main/pages/get-value.php)
