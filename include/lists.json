@@ -43,5 +43,9 @@
 	{
         "name" : "animation",
 		"url" : "pages/animation.php"
+	},
+	{
+        "name" : "attribute",
+		"url" : "pages/attribute.php"
 	}
 ]
