@@ -10,3 +10,4 @@
 - [chaining](https://github.com/aslamcsebd/jQuery/blob/main/pages/chaining.php)
 - [stop-method](https://github.com/aslamcsebd/jQuery/blob/main/pages/stop-method.php)
 - [fade](https://github.com/aslamcsebd/jQuery/blob/main/pages/fade.php)
+- [animation](https://github.com/aslamcsebd/jQuery/blob/main/pages/animation.php)

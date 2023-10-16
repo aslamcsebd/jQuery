@@ -39,5 +39,9 @@
 	{
         "name" : "fade",
 		"url" : "pages/fade.php"
+	},
+	{
+        "name" : "animation",
+		"url" : "pages/animation.php"
 	}
 ]

@@ -59,5 +59,17 @@
 				</div>
 			</div>
 		</fieldset>
+
+		<fieldset class="form-group">
+			<legend class="mb-0">jQuery Effects</legend>
+			<?php
+				$effects = array('hide/show', 'fade', 'slide', 'animate', 'stop()', 'callback', 'chaining');
+				$i=1;
+				foreach($effects as $effect){ ?>
+					<span class="px-1">
+						<?=$i.") ".$effect; $i++;?>
+					</span>					
+				<?php } ?>
+		</fieldset>
 	</body>
 </html>
