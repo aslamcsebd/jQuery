@@ -1,55 +1,17 @@
 
-[    
-	{
-		"name" : "selector",
-		"url" : "pages/selector.php"
-	},
-	{
-		"name" : "append",
-		"url" : "pages/append.php"
-	},
-	{
-        "name" : "addCSS",
-		"url" : "pages/addCSS.php"
-	},
-	{
-        "name" : "event",
-		"url" : "pages/event.php"
-	},
-	{
-        "name" : "hide-show",
-		"url" : "pages/hide-show.php"
-	},
-	{
-        "name" : "call-back-function",
-		"url" : "pages/call-back-function.php"
-	},
-	{
-        "name" : "dimensions",
-		"url" : "pages/dimensions.php"
-	},
-	{
-        "name" : "chaining",
-		"url" : "pages/chaining.php"
-	},
-	{
-        "name" : "stop-method",
-		"url" : "pages/stop-method.php"
-	},
-	{
-        "name" : "fade",
-		"url" : "pages/fade.php"
-	},
-	{
-        "name" : "animation",
-		"url" : "pages/animation.php"
-	},
-	{
-        "name" : "attribute",
-		"url" : "pages/attribute.php"
-	},
-	{
-        "name" : "get-value",
-		"url" : "pages/get-value.php"
-	}
+[   
+	{ "name" : "selector",			"url" : "pages/selector.php" },
+	{ "name" : "append",			"url" : "pages/append.php" }, 
+	{ "name" : "addCSS",			"url" : "pages/addCSS.php" }, 
+	{ "name" : "event",				"url" : "pages/event.php" },
+	{ "name" : "hide-show",			"url" : "pages/hide-show.php" },
+	{ "name" : "call-back-function","url" : "pages/call-back-function.php" },
+	{ "name" : "dimensions",		"url" : "pages/dimensions.php" },
+	{ "name" : "chaining",			"url" : "pages/chaining.php" },
+	{ "name" : "stop-method",		"url" : "pages/stop-method.php" },
+	{ "name" : "fade",				"url" : "pages/fade.php" },
+	{ "name" : "animation",			"url" : "pages/animation.php" },
+	{ "name" : "attribute",			"url" : "pages/attribute.php" },
+	{ "name" : "get-value",			"url" : "pages/get-value.php" },
+	{ "name" : "traversing",		"url" : "pages/traversing.php" }
 ]

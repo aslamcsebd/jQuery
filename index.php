@@ -63,13 +63,28 @@
 		<fieldset class="form-group">
 			<legend class="mb-0">jQuery Effects</legend>
 			<?php
-				$effects = array('hide/show', 'fade', 'slide', 'animate', 'stop()', 'callback', 'chaining');
+				$items = array('hide/show', 'fade', 'slide', 'animate', 'stop()', 'callback', 'chaining');
 				$i=1;
-				foreach($effects as $effect){ ?>
+				foreach($items as $item){ ?>
 					<span class="px-1">
-						<?=$i.") ".$effect; $i++;?>
+						<?=$i.") ".$item; $i++;?>
+					</span>					
+				<?php } ?>
+		</fieldset>
+
+		<fieldset class="form-group">
+			<legend class="mb-0">jQuery Traversing</legend>
+			<?php
+				$items = array('Traversing', 'Ancestors', 'Descendants', 'Siblings', 'Filtering');
+				$i=1;
+				foreach($items as $item){ ?>
+					<span class="px-1">
+						<?=$i.") ".$item; $i++;?>
 					</span>					
 				<?php } ?>
 		</fieldset>
 	</body>
 </html>
+
+
+ 
