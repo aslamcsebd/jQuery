@@ -13,5 +13,6 @@
 	{ "name" : "animation",			"url" : "pages/animation.php" },
 	{ "name" : "attribute",			"url" : "pages/attribute.php" },
 	{ "name" : "get-value",			"url" : "pages/get-value.php" },
-	{ "name" : "traversing",		"url" : "pages/traversing.php" }
+	{ "name" : "traversing",		"url" : "pages/traversing.php" },
+	{ "name" : "ancestor",			"url" : "pages/ancestor.php" }
 ]
