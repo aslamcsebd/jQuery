@@ -17,3 +17,4 @@
 - [ancestors](https://github.com/aslamcsebd/jQuery/blob/main/pages/ancestors.php)
 - [descendants](https://github.com/aslamcsebd/jQuery/blob/main/pages/descendants.php)
 - [siblings](https://github.com/aslamcsebd/jQuery/blob/main/pages/siblings.php)
+- [filtering](https://github.com/aslamcsebd/jQuery/blob/main/pages/filtering.php)
