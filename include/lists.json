@@ -14,5 +14,6 @@
 	{ "name" : "attribute",			"url" : "pages/attribute.php" },
 	{ "name" : "get-value",			"url" : "pages/get-value.php" },
 	{ "name" : "traversing",		"url" : "pages/traversing.php" },
-	{ "name" : "ancestor",			"url" : "pages/ancestor.php" }
+	{ "name" : "ancestors",			"url" : "pages/ancestors.php" },
+	{ "name" : "descendants",		"url" : "pages/descendants.php" }
 ]

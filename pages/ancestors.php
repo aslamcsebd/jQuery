@@ -6,7 +6,7 @@
 	</style>
 	<body class="container-fluid my-4">
 		<fieldset>
-			<legend>ancestor</legend>
+			<legend>ancestors</legend>
 			<section class="row">
 				<div class="col-12">
 					<ol> <b>Ancestors:</b> 
@@ -16,8 +16,8 @@
 					</ol>
 				</div>
 				<div class="ancestors col-4">
-					<div style="width:300px;">div (great-grandparent)
-						<ul>ul (grandparent)  
+					<div>div (great-grandparent)
+						<ul>ul (grandparent)
 							<li>li (direct parent)
 								<span class="parent">span</span>
 							</li>
@@ -25,7 +25,7 @@
 					</div>
 				</div>
 				<div class="ancestors col-4">
-					<div style="width:300px;">div (great-grandparent)
+					<div>div (great-grandparent)
 						<ul>ul (grandparent)  
 							<li>li (direct parent)
 								<span class="parents">span</span>
@@ -34,7 +34,7 @@
 					</div>
 				</div>
 				<div class="ancestors col-4">
-					<div style="width:300px;">div (great-grandparent)
+					<div>div (great-grandparent)
 						<ul>ul (grandparent)  
 							<li>li (direct parent)
 								<span class="parentsUntil">span</span>
